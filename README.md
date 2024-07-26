@@ -3,7 +3,7 @@
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
-## AVISO
+## AVISO:
 - O **`PROJETO DO CURSO`** localizado em `./CURSO COMPRETO/PROJETO` foi desenvolvido utilizando o **Jupyter Notebook**. Para mais informações, consulte o [README DO PROJETO](./CURSO%20COMPRETO/PROJETO/README.md).
 
 - O **README DO CURSO** em `./CURSO COMPRETO/README.md` e o **MANUAL** em `./MANUAL.md` foram criados utilizando Python. Sinta-se à vontade para utilizar qualquer uma dessas ferramentas conforme sua necessidade!
