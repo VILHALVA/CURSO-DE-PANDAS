@@ -19,7 +19,7 @@
 - [20-21) LIMPEZA DE DADOS](./README.md##20-21-limpeza-de-dados)
 - [22) ESTATÍSTICAS DESCRITIVAS](./README.md##22-estatísticas-descritivas)
 - [22) USANDO `apply()` E `map()`](./README.md##22-usando-apply-e-map)
-- [23-24) AGRUPAMENTO](./README.md##23-24-agrupar)
+- [23-24) AGRUPAMENTO](./README.md##23-24-agrupamento)
 - [25) ORDENANDO DADOS](./README.md##25-ordenando-dados)
 ---
 
